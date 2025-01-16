@@ -48,6 +48,12 @@ Implement JavaScript interactivity (e.g., dynamically adding/removing bucket lis
 Add animations for a more engaging user experience.
 Improve accessibility and keyboard navigation.
 
+# Result:
+
+![image](https://github.com/user-attachments/assets/7dbe3e84-df1c-410f-b441-559432fa6ff9)
+
+
+
 This project is an excellent step in frontend development, building a foundation for interactive and visually appealing web applications. 🚀
 
 

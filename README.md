@@ -8,12 +8,12 @@ Domain: FRONTEND WEB DEVELOPMENT INTERNSHIP PROECT 1
 
 Duration: January to February 2025
 
-###Overview of the Project: Personal Bucket List Webpage
+### Overview of the Project: Personal Bucket List Webpage
 
-###Objective
+### Objective
 The project aims to create an interactive and visually appealing personal bucket list webpage using HTML, CSS, and Font Awesome icons. It focuses on responsive design, aesthetic appeal, and basic interactivity, making it a great practice for frontend web development skills.
 
-###Key Features
+### Key Features
 Styled List with Icons
 
 Uses unordered lists to display bucket list items.
@@ -37,13 +37,13 @@ Footer with Social Links
 Includes placeholders for Facebook, Twitter, and Instagram links.
 A motivational tagline: "Follow your dreams!"
 
-###Learning Outcomes
+### Learning Outcomes
 Strengthen HTML and CSS skills in structuring and styling web content.
 Gain experience with list styling and icon-based UI enhancements.
 Understand responsive web design principles.
 Learn to use box shadows, flexbox, and hover effects for modern UI.
 
-###Bonus Enhancements (Future Improvements)
+### Bonus Enhancements (Future Improvements)
 Implement JavaScript interactivity (e.g., dynamically adding/removing bucket list items).
 Add animations for a more engaging user experience.
 Improve accessibility and keyboard navigation.
